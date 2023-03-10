@@ -1,6 +1,6 @@
 ## Sistema de Control de gastos para empresa de encomiendas
 
-Un sistema  basado en React. Utilizando MongoDB para almacenar los datos.
+Un sistema  basado en React. Utilizando MongoDB para almacenar los datos, este sistema esta pensado para una empresa de encomiendas, paqueteria.
 
 ## 1. Funciones
   - Sistema CRUD
