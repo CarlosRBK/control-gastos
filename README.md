@@ -10,8 +10,7 @@ Un sistema  basado en React. Utilizando MongoDB para almacenar los datos, este s
   - Ver el total del monto en caja.
 
 ## Imágenes
-
-![1](https://user-images.githubusercontent.com/115422555/224438376-1b55d525-6e20-4493-819b-d7520c9719a5.png)
+![1](https://user-images.githubusercontent.com/115422555/227030239-f06cca18-45b4-4ef6-99d0-9dbb48a2d0a6.png)
 ![2](https://user-images.githubusercontent.com/115422555/224438379-8b72f800-19ac-498e-8112-0f4bf6e22ad9.png)
 
 
